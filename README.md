@@ -25,5 +25,4 @@ Displaying the "x" button when a query is entered.
 The "x" button clears the query and resets the task filtration.
 This project demonstrates my ability to interact effectively with React, solve tasks with asynchronous data loading, implement modal window functionality, and realize the filtration and search of a large amount of data.
 
-    - [DEMO LINK] (https://denys2.github.io/Portfolio-list-of-todos/) 
-  - [DEMO LINK](https://denys2.github.io/Portfolio-list-of-todos/)
+    - [DEMO LINK](https://denys2.github.io/Portfolio-list-of-todos/) 
